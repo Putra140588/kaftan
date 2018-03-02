@@ -1,0 +1,224 @@
+
+.cms-sprite-footer {
+    background-image: url('../images/footer-sprite-sept.png');
+    background-repeat: no-repeat;
+}
+.first1{
+    background-position:  0px -340px;
+    width: 50px;
+    height: 25px;
+}
+
+.jne {
+        
+    background-position: -44px -314px;
+    width: 57px;
+    height: 30px;
+}
+.rpx {
+    background-position:-11px -307px;
+    width: 31px;
+    height: 31px;
+}
+.zdex {
+    background-position:-1px -258px;
+    width: 100px;
+    height: 41px;
+}
+.pandu {
+    background-position:-1px -418px;
+    width: 100px;
+    height: 25px;
+}
+.redbox {
+    background-position:-1px -442px;
+    width: 100px;
+    height: 49px;
+}
+.ych {
+    background-position:-1px -492px;
+    width: 62px;
+    height: 35px;
+}
+.ptpos{
+    background-position:-1px -527px;
+    width: 100px;
+        height: 53px;
+}
+.lion{
+    background-position:-1px -576px;
+    width: 100px;
+    height: 28px;
+}
+.atri{
+    background-position:-117px -117px;
+    width: 100px;
+    height: 33px;
+}
+.grab{
+    background-position:-117px -157px;
+    width: 100px;
+    height: 35px;
+}
+ul#icon li{
+  display: block; float:left; margin:2px 6px 2px 0;
+  text-indent: -9999px;
+}
+
+
+/*payment*/
+.cod {
+    background-position: 0 -114px;
+    height: 23px;
+    width: 35px;
+}
+.visa {
+    background-position: 0 -138px;
+    height: 23px;
+    width: 38px;
+}
+.master {
+    background-position: 0 -162px;
+    height: 23px;
+    width: 37px;
+}
+.bca {
+    background-position: 0 -186px;
+    height: 23px;
+    width: 46px;
+}
+.mandiri {
+    background-position: 0 -210px;
+    height: 23px;
+    width: 60px;
+}
+.bri {
+    background-position: 0 -234px;
+    height: 23px;
+    width: 46px;
+}
+.bni {
+    background-position: 0 -396px;
+    height: 20px;
+    margin-right: 0 !important;
+    width: 60px;
+}
+ul#icon li {
+    display: block;
+    float: left;
+    margin: 2px 6px 2px 0;
+    text-indent: -9999px;
+}
+#unsub {
+    background-color: #fff;
+    margin: 0 auto;
+    padding: 6px;
+    width: 801px;
+}
+#unsub .col1 {
+    background: rgba(0, 0, 0, 0) url("../../images/local/ZaloraUnsubPage01.jpg") no-repeat scroll 0 0;
+    display: block;
+    float: left;
+    height: 600px;
+    width: 429px;
+}
+#unsub .col2 {
+    display: block;
+    float: left;
+    font-size: 14px;
+    height: 600px;
+    position: relative;
+    width: 371px;
+}
+#unsub .col2 .stay-with-us {
+    height: 182px;
+    width: 371px;
+}
+#unsub .col2 .text {
+    padding-left: 32px;
+}
+.newsletter-unsub {
+    margin: 0;
+    padding: 0;
+}
+.newsletter-unsub .options {
+    background-color: #ffdac8;
+    line-height: 18px;
+    padding: 12px 4px 4px 32px;
+}
+.newsletter-unsub li {
+    margin-bottom: 10px;
+}
+.newsletter-unsub li input[type="radio"] {
+    margin-right: 5px;
+}
+.newsletter-unsub li.last {
+    margin-bottom: 2px;
+}
+.newsletter-unsub li span, .newsletter-unsub li br::after {
+    font-size: 13px;
+    padding-left: 17px;
+}
+.newsletter-unsub li span.italic {
+    font-style: italic;
+}
+.newsletter-unsub li span.bold {
+    font-weight: bold;
+}
+.newsletter-unsub li div {
+    padding-top: 8px;
+}
+.newsletter-unsub li .textarea {
+    width: 304px;
+}
+.flat-black {
+    background: #000 none repeat scroll 0 0;
+    border: 0 none;
+    color: #fff;
+    display: block;
+    margin: 8px;
+    padding: 4px 8px;
+    text-transform: uppercase;
+}
+.newsletter-unsub .button {
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 230px;
+}
+.text-note {
+    bottom: 0;
+    font-size: 10px;
+    left: 28px;
+    position: absolute;
+    text-align: center;
+}
+#unsub .col2 .stay-with-us {
+    background: rgba(0, 0, 0, 0) url("../../images/sgfas/ZaloraUnsubPage02.jpg") no-repeat scroll 0 0;
+}
+
+
+.pay-horizontal-list{
+	list-style-type: none;
+   	min-width: 696px;
+	list-style: none;
+	padding-top: 0px;
+    *background-color: #ffffff;
+}
+.pay-horizontal-list li{ 
+	display: inline;
+    color: #000;
+    *padding: 2px 25px;
+}
+.shipp-horizontal-list{
+	list-style-type: none;
+   	min-width: 696px;
+	list-style: none;
+	padding-top: 0px;
+    *background-color: #ffffff;
+}
+.shipp-horizontal-list li{ 
+	display: inline;
+    color: #000;
+    *padding: 0px 10px;
+}
