@@ -11,6 +11,7 @@ $init_set = array(
 );
 
 /*
+ * konfig email kaftwholesale
  */
 $mail_set = array(
 		'protocol'=>'smtp',
