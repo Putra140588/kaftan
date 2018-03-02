@@ -11,7 +11,6 @@ $init_set = array(
 );
 
 /*
- * konfig novi email
  */
 $mail_set = array(
 		'protocol'=>'smtp',
